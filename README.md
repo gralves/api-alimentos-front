@@ -5,7 +5,7 @@ Escolhi desenvolver em Angular Cli, pois acredito que seja um framework com uma 
 
 Escolhi bootstrap pois sua estrutura de templates já possui bastante recursos para facilitar o desenvolvimento WEB.
 
-<b>Instruções<\b>
+<b>Instruções</b>
 * Clonar o repositório Git git clone https://github.com/gralves/api-alimentos-front.git
   
 * Importar pasta no Visual Studio Code, na linha de comando, rode npm install
